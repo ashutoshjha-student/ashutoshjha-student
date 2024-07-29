@@ -1,4 +1,4 @@
-<img align="top" alt="coding" width="400" src="https://github.com/ashutoshjha-student/ashutoshjha-student/blob/main/1_Erk4NawQOHkf4wSN7JmB_A.jpg">
+<img align="top" alt="coding" width="200" src="https://github.com/ashutoshjha-student/ashutoshjha-student/blob/main/1_Erk4NawQOHkf4wSN7JmB_A.jpg">
 <h1 align="center">Hi 👋, I'm Ashutosh Jha</h1>
 <h3 align="center">A passionate web/app developer from India</h3>
 
