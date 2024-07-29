@@ -1,8 +1,8 @@
 <img align="top" alt="coding" width="1920" height="720" src="https://github.com/ashutoshjha-student/ashutoshjha-student/blob/main/20240729_202424.jpg">
 <h1 align="center">Hi 👋, I'm Ashutosh Jha</h1>
-<h3 align="center">A passionate web/app developer from India</h3>
+<h3 align="center">A passionate coding student from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lpenBkYW41ZXRyM2xpdGFmZTY2ZTdtYXFjcWd5c2QxcWtieTVlbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshjha-student&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshjha-student" /> </p>
 
