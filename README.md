@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jhaashutosh0811@gmail.com**
 
-- ⚡ Fun fact **I am funny😁😂**
+- ⚡ Fun fact **I am funny😁😂 also a good editor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
